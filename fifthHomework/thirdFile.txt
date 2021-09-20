@@ -1,0 +1,4 @@
+petrov 50000
+ivanov 40000
+bomzhov 10000
+escheodnov 60000
