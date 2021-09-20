@@ -1,0 +1,6 @@
+firm_1 SP 10000 5000
+firm_2 GP 1000 5000
+firm_3 LP 10000 9000
+firm_4 LLC 0 0
+firm_5 C 10000 0
+firm_6 LLP 10000 5000

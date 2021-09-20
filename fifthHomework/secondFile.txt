@@ -1,0 +1,4 @@
+first string with few words containing 8 words
+second string with even more words containing 9 words
+third_string_written_as_on_word
+turtle
